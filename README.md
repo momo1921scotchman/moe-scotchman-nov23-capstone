@@ -36,7 +36,9 @@ List the pages of your app with brief descriptions. You can show this visually, 
 
 ### Mockups
 
-Provide visuals of your app's screens. You can use tools like Figma or pictures of hand-drawn sketches.
+![](initial-cards.jpg)
+![](correct-card.jpg)
+![](incorrect-card.jpg)
 
 ### Data
 
@@ -75,3 +77,4 @@ testing of the application
 ## Nice-to-haves
 
 another page of cards showing basic conversations
+![](endgoal.jpg)
